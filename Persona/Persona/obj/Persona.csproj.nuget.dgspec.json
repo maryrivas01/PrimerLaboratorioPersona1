@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Maria\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\Maria\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Maria\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\obj\\",
+=======
+    "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj",
+        "projectName": "Persona",
+        "projectPath": "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj",
+        "packagesPath": "C:\\Users\\BESSY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\obj\\",
+>>>>>>> 381954f79b6f1737d0850d32b52dc6e9ee90ab0e
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BESSY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

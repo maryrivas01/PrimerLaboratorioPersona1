@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "KxfJJijM0L5agoH1kPvzAewBcQU6B1Vy9axnnR7oIlrKzjxlEccImVD4nmUfTakGx3xGU1qejYTjwIrJz82F/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Maria\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj",
+=======
+  "dgSpecHash": "+yEw/SusrkpnUBjR8o+WUBl0eBkMx6MMIxIDNClNhDusZ6QMfIo/qJKUXR2uF2VJqnA4W+z+cIUd9ke65tYEQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BESSY\\Documents\\GitHub\\PrimerLaboratorioPersona1\\Persona\\Persona\\Persona.csproj",
+>>>>>>> 381954f79b6f1737d0850d32b52dc6e9ee90ab0e
   "expectedPackageFiles": [],
   "logs": []
 }
